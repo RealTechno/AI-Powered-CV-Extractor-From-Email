@@ -36,7 +36,8 @@ Automatically processes incoming job application emails, extracts CV data using 
 ## 🎯 Purpose
 This project is a proof of concept to explore how automation and LLMs can help HR teams process large volumes of job applications more efficiently.
 
-## 📽️ Demo
-Watch it in action:
-[https://github.com/RealTechno/AI-Powered-CV-Extractor-From-Email/blob/main/demo.gif](https://raw.githubusercontent.com/RealTechno/AI-Powered-CV-Extractor-From-Email/main/demo.gif
-)
+## 🎬 Demo
+
+Watch it in action:  
+![Demo](https://raw.githubusercontent.com/RealTechno/AI-Powered-CV-Extractor-From-Email/main/demo.gif)
+
